@@ -16,8 +16,15 @@ Works on multi-page documents, resumes, reports, or any PDF with a recurring bot
 
 ## Before / After
 
+Close-up of the footer area, before and after running the skill:
+
+![Before and after footer removal](./screenshots/before-after-footer-closeup.png)
+
+Full page comparison:
+
 | Before | After |
 |---|---|
+| ![Before - footer visible](./screenshots/before-full.png) | ![After - footer removed](./screenshots/after-full.png) |
 | Resume with `Created using Resumonk - Online Resume Builder` on every page | Same resume, footer completely gone, formatting and layout untouched |
 
 ## Install
